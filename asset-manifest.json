@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/project-02-stack-todo-multi-functional-react-stack-learner/static/css/main.ff02f4b5.css",
+    "main.js": "/project-02-stack-todo-multi-functional-react-stack-learner/static/js/main.bc112751.js",
+    "static/js/453.c0d491d4.chunk.js": "/project-02-stack-todo-multi-functional-react-stack-learner/static/js/453.c0d491d4.chunk.js",
+    "index.html": "/project-02-stack-todo-multi-functional-react-stack-learner/index.html",
+    "main.ff02f4b5.css.map": "/project-02-stack-todo-multi-functional-react-stack-learner/static/css/main.ff02f4b5.css.map",
+    "main.bc112751.js.map": "/project-02-stack-todo-multi-functional-react-stack-learner/static/js/main.bc112751.js.map",
+    "453.c0d491d4.chunk.js.map": "/project-02-stack-todo-multi-functional-react-stack-learner/static/js/453.c0d491d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.bc112751.js"
+  ]
+}
